@@ -197,4 +197,4 @@ This project demonstrates an end-to-end RAG pipeline using local models instead 
 
 ## License
 
-Choose and add a license before inviting others to reuse or contribute to this repository.
+This project is licensed under the MIT License. See the LICENSE file for details.
